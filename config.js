@@ -112,11 +112,11 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '☪ Lala BotzMD'
-global.botdate = `\n© Lala BOT - ${week}, ${date}\n`//⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}, ${week}, ${date}
+global.wm = '☪ Xyro BotzMD'
+global.botdate = `\n© Xyro BOT - ${week}, ${date}\n`//⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}, ${week}, ${date}
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `WhatsApp Bot | By 乙モれ. ㉺`
-global.author = '\n© Lala BotzMD'
+global.titlebot = `WhatsApp Bot | By Xyro Store. ㉺`
+global.author = '\n© Xyro BotzMD'
 
 
 /*============== LOGO ==============*/
@@ -182,8 +182,8 @@ global.htjava = '⭔' //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Lala Bot MD'
-global.stickauth = `By @Yanz_5008`
+global.stickpack = 'Xyro Bot MD'
+global.stickauth = `By @Xyro_5008`
 
 global.multiplier = 38 // The higher, The harder levelup
 
