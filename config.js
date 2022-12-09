@@ -43,7 +43,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya biarin aja biar ada creditsnya :v
-global.sig1 = 'https://wa.me/6285607835238?text=_Assalamualaikum+🙏🏻_'
+global.sig1 = 'https://wa.me/6285794403410?text=_Assalamualaikum+🙏🏻_'
 global.sig = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.sgh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.sgc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
@@ -59,16 +59,16 @@ global.ppulsa2 = '-' // Indosat : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.co/XyroOffic'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285894403410'
-global.nomorown = '6285607835238' // nomor owner
+global.nomorbot = '6285716921029'
+global.nomorown = '6285780036817' // nomor owner
 global.namebot = 'Xyro BOT'
-global.nameown = '乙モれ. ㉺'
+global.nameown = 'Xyro Store. ㉺'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285607835238', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
-  ['6285752235008', 'Developer Bot', true] //Jangan di Ganti🚫
+  ['6285780036817', 'Xyro Store', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Xyro Store', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['6285894403410', 'Developer Bot', true] //Jangan di Ganti🚫
   ]
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
