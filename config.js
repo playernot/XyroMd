@@ -51,17 +51,17 @@ global.sdc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285607835238' //Nomor dana atay gooay kalian
-global.povo = '6285607835238' 
-global.pgopay = '6285607835238'
-global.ppulsa = '6285607835238' // Indosat : kalau gada diganti tanda - aja
-global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
-global.psaweria = 'https://saweria.com'
+global.pdana = '6285894403410' //Nomor dana atay gooay kalian
+global.povo = '6285894403410' 
+global.pgopay = '6285894403410'
+global.ppulsa = '6285894403410' // Indosat : kalau gada diganti tanda - aja
+global.ppulsa2 = '-' // Indosat : kalau gada diganti tanda - aja
+global.psaweria = 'https://saweria.co/XyroOffic'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285607835238'
+global.nomorbot = '6285894403410'
 global.nomorown = '6285607835238' // nomor owner
-global.namebot = 'Lala BOT'
+global.namebot = 'Xyro BOT'
 global.nameown = '乙モれ. ㉺'
 
 
